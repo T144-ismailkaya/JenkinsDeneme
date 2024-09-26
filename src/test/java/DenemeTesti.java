@@ -9,4 +9,9 @@ public class DenemeTesti {
         assertTrue(false); //
     }
 
+    @Test
+    void Test2(){
+        assertTrue(true); //
+    }
+
 }
