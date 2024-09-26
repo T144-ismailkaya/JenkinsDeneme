@@ -6,7 +6,7 @@ public class DenemeTesti {
 
     @Test
     void Test1(){
-        assertTrue(false);
+        assertTrue(false); //
     }
 
 }
